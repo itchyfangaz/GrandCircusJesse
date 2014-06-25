@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "Home Page"
+    ViewData("Title") = "LET's GO TIGERS"
 End Code
 
 <div class="jumbotron">
